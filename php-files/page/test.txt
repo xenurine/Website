@@ -1,0 +1,4 @@
+<h1> It Works! </h1>
+<p> if you see this text everything works </p>
+<hr />
+<p> This is a PHP test </p>
